@@ -208,5 +208,10 @@ button:active {
     margin-top: 0px;
     align-self: center;
   }
+
+  #section-contents {
+    margin-top: 200px;
+    gap: 45px;
+  }
 }
 
