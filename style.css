@@ -118,3 +118,14 @@ header button {
   width: 281px;
   height: 281px;
 }
+
+#section-info div {
+  position: absolute;
+  margin-top: 228px;
+  width: 343px;
+  height: 375px;
+  background-color: #24053E;
+  text-align: center;
+  padding-left: 31px;
+  padding-right: 31px;
+}
