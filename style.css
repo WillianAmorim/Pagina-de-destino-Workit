@@ -120,8 +120,8 @@ header button {
 }
 
 #section-info div {
-  position: absolute;
-  margin-top: 228px;
+  position: relative;
+  top: -55px;
   width: 343px;
   height: 375px;
   background-color: #24053E;
