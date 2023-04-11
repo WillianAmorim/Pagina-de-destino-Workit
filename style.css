@@ -10,3 +10,9 @@ section {
   border-bottom-left-radius: 50% 25px;
   border-bottom-right-radius: 50% 25px;
 }
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 32px 16px 0 16px;
+}
