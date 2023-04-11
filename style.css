@@ -189,6 +189,12 @@ button:active {
     padding: 32px 39px 0 39px;
   }
 
-  
+  #section-header div {
+    width: 573px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+  }
 }
 
