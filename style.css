@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  height: 481.71px;
+  background: #24053E;
+  border-bottom-left-radius: 50% 25px;
+  border-bottom-right-radius: 50% 25px;
+}
