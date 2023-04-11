@@ -201,5 +201,12 @@ button:active {
     font-size: 60px;
     line-height: 60px;
   }
+
+  #img-hero {
+    width: 515px;
+    height: 300px;
+    margin-top: 0px;
+    align-self: center;
+  }
 }
 
