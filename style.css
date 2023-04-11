@@ -70,3 +70,10 @@ header button {
   margin-top: 60px;
   align-self: center;
 }
+
+#section-contents {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+}
