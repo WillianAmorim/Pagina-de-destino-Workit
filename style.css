@@ -99,3 +99,10 @@ header button {
   line-height: 36px;
   color: #24053E;
 }
+
+.div-contents div {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
