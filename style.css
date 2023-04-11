@@ -106,3 +106,15 @@ header button {
   flex-direction: column;
   gap: 16px;
 }
+
+#section-info {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#section-info img {
+  width: 281px;
+  height: 281px;
+}
