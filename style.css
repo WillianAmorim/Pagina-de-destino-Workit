@@ -37,3 +37,11 @@ section div {
   flex-direction: column;
   gap: 40px;
 }
+
+section div h1 {
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 50px;
+  text-align: center;
+  color: #FFFFFF;
+}
