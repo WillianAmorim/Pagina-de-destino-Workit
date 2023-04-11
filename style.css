@@ -162,3 +162,11 @@ header button {
   color: #24053E;
 }
 
+#section-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 60px;
+  gap: 55px;
+}
+
