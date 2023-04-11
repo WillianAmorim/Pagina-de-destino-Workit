@@ -9,6 +9,8 @@ section {
   background: #24053E;
   border-bottom-left-radius: 50% 25px;
   border-bottom-right-radius: 50% 25px;
+  display: flex;
+  flex-direction: column;
 }
 
 header {
@@ -26,4 +28,12 @@ header button {
   line-height: 32px;
   letter-spacing: -0.16px;
   border-bottom: solid 2px #44FFA1;
+}
+
+section div {
+  margin-top: 60px;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
 }
