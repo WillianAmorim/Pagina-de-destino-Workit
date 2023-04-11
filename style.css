@@ -85,3 +85,17 @@ header button {
   flex-direction: column;
   text-align: center;
 }
+
+#section-contents > div > p {
+  width: 48px;
+  height: 48px;
+  align-self: center;
+  padding: 5px;
+  border: 1px solid #584D62;
+  border-radius: 30.5px;
+
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 36px;
+  color: #24053E;
+}
