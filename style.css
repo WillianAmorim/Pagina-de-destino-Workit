@@ -35,6 +35,7 @@ section div {
   align-self: center;
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 40px;
 }
 
@@ -48,4 +49,17 @@ section div h1 {
 
 section div h1 span {
   border-bottom: solid 2px #44FFA1;
+}
+
+section div button {
+  width: 133px;
+  height: 55px;
+  background-color: #44FFA1;
+  border: #44FFA1;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 32px;
+  text-align: center;
+  letter-spacing: -0.16px;
+  color: #24053E;
 }
