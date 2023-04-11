@@ -170,3 +170,8 @@ header button {
   gap: 55px;
 }
 
+#section-footer div {
+  display: flex;
+  gap: 28px;
+}
+
