@@ -63,3 +63,10 @@ section div button {
   letter-spacing: -0.16px;
   color: #24053E;
 }
+
+#img-hero {
+  width: 320px;
+  height: 184px;
+  margin-top: 60px;
+  align-self: center;
+}
