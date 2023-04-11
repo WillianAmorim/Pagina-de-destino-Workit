@@ -238,5 +238,11 @@ button:active {
     text-align: start;
     align-self: flex-start;
   }
+
+  #section-info {
+    width: 90vw;
+    flex-direction: row;
+    align-items: flex-start;
+  }
 }
 
