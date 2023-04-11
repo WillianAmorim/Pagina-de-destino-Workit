@@ -184,5 +184,9 @@ button:active {
   #section-header {
     height: 540px;
   }
+
+  header {
+    padding: 32px 39px 0 39px;
+  }
 }
 
