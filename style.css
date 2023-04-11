@@ -191,10 +191,15 @@ button:active {
 
   #section-header div {
     width: 573px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
     padding-bottom: 50px;
     margin-top: 50px;
+  }
+
+  #section-header div h1 {
+    font-size: 60px;
+    line-height: 60px;
   }
 }
 
