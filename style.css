@@ -147,3 +147,18 @@ header button {
   margin-top: 16px;
 }
 
+#section-info div button {
+  width: 172px;
+  height: 55px;
+  background-color: #44FFA1;
+  border: #44FFA1;
+  margin-top: 24px;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 32px;
+  text-align: center;
+  letter-spacing: -0.16px;
+  color: #24053E;
+}
+
