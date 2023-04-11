@@ -45,3 +45,7 @@ section div h1 {
   text-align: center;
   color: #FFFFFF;
 }
+
+section div h1 span {
+  border-bottom: solid 2px #44FFA1;
+}
