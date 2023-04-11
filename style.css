@@ -213,5 +213,13 @@ button:active {
     margin-top: 200px;
     gap: 45px;
   }
+
+  #section-contents > div {
+    width: 80vw;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    text-align: start;
+  }
 }
 
