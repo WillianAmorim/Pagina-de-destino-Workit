@@ -129,3 +129,12 @@ header button {
   padding-left: 31px;
   padding-right: 31px;
 }
+
+#section-info div h3 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  color: #FFFFFF;
+  margin-top: 32px;
+}
+
