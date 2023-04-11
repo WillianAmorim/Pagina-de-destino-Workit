@@ -86,7 +86,7 @@ header button {
   text-align: center;
 }
 
-#section-contents > div > p {
+.paragraph-numbers {
   width: 48px;
   height: 48px;
   align-self: center;
