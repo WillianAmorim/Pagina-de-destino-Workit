@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-section {
+#section-header {
   height: 481.71px;
   background: #24053E;
   border-bottom-left-radius: 50% 25px;
@@ -30,7 +30,7 @@ header button {
   border-bottom: solid 2px #44FFA1;
 }
 
-section div {
+#section-header div {
   margin-top: 60px;
   align-self: center;
   display: flex;
@@ -39,7 +39,7 @@ section div {
   gap: 40px;
 }
 
-section div h1 {
+#section-header div h1 {
   font-weight: 600;
   font-size: 50px;
   line-height: 50px;
@@ -47,11 +47,11 @@ section div h1 {
   color: #FFFFFF;
 }
 
-section div h1 span {
+#section-header div h1 span {
   border-bottom: solid 2px #44FFA1;
 }
 
-section div button {
+#section-header div button {
   width: 133px;
   height: 55px;
   background-color: #44FFA1;
