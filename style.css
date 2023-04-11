@@ -229,7 +229,14 @@ button:active {
     border: 1px solid #584D62;
     border-radius: 50%;
     line-height: 10px;
-    text-align: center
+    text-align: center;
+    margin: 10px;
+  }
+
+  .div-contents div {
+    margin-top: 0;
+    text-align: start;
+    align-self: flex-start;
   }
 }
 
