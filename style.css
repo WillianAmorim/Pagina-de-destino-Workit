@@ -334,5 +334,12 @@ button:active {
     font-size: 80px;
     line-height: 80px;
   }
+
+  #section-header div button {
+    width: 161px;
+    height: 61px;
+    font-size: 18px;
+    letter-spacing: -0.18px;
+  }
 }
 
