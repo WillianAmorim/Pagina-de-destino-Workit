@@ -302,18 +302,35 @@ button:active {
     display: flex;
     position: absolute;
     justify-content: space-between;
-    top: 100px;
+    top: 180px;
     overflow: hidden;
   }
 
   #img-arco-left {
     position: relative;
-    left: -220px;
+    left: -150px;
   }
 
   #img-arco-right {
     position: relative;
     right: -50px;
+  }
+
+  #section-header {
+    height: 730px;
+  }
+
+  #section-header div h1{
+    width: 650px;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 80px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+
+  header {
+    padding: 55px 150px 0 150px;
   }
 }
 
