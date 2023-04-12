@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+#img-arco-left {
+  display: none;
+}
+
+#img-arco-right {
+  display: none;
+}
+
 #section-header {
   height: 481.71px;
   background: #24053E;
@@ -190,12 +198,14 @@ button:active {
   }
 
   #img-arco-left {
+    display: block;
     width: 500px;
     position: absolute;
     left: -330px;
   }
 
   #img-arco-right {
+    display: block;
     width: 300px;
     position: absolute;
     left: 700px;
