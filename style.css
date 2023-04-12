@@ -397,6 +397,14 @@ button:active {
     font-size: 32px;
     line-height: 40px;
   }
+
+  #section-info {
+    margin-top: 200px;
+    flex-direction: row;
+    padding-left: 150px;
+    padding-right: 150px;
+    align-items: flex-start;
+  }
   
 }
 
