@@ -356,6 +356,15 @@ button:active {
     justify-content: center;
     gap: 30px;
   }
+
+  .paragraph-numbers {
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+  
+    font-size: 24px;
+    line-height: 40px;
+  }
   
 }
 
