@@ -346,6 +346,16 @@ button:active {
     width: 767px;
     height: 441px;
   }
+
+  #section-contents {
+    width: 100vw;
+    margin-top: 250px;
+    padding-left: 150px;
+    padding-right: 150px;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+  }
   
 }
 
