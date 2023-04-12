@@ -189,6 +189,16 @@ button:active {
     padding: 32px 39px 0 39px;
   }
 
+  #img-arco-left {
+    width: 500px;
+    position: absolute;
+    left: -330px;
+  }
+
+  #img-arco-right {
+    position: absolute;
+  }
+  
   #section-header div {
     width: 573px;
     padding-left: 50px;
