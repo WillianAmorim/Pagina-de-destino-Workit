@@ -316,19 +316,6 @@ button:active {
     right: -50px;
   }
 
-  #section-header {
-    height: 730px;
-  }
-
-  #section-header div h1{
-    width: 650px;
-    font-weight: 600;
-    font-size: 80px;
-    line-height: 80px;
-    text-align: center;
-    color: #FFFFFF;
-  }
-
   header {
     padding: 55px 150px 0 150px;
   }
@@ -336,6 +323,16 @@ button:active {
   header button {
     font-size: 18px;
     letter-spacing: -0.18px;
+  }
+
+  #section-header {
+    height: 730px;
+  }
+
+  #section-header div h1{
+    width: 650px;
+    font-size: 80px;
+    line-height: 80px;
   }
 }
 
