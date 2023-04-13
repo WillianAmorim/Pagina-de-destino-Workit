@@ -425,5 +425,9 @@ button:active {
     line-height: 64px;
   }
   
+  #section-info div p {
+    font-size: 18px;
+    line-height: 32px;
+  }
 }
 
