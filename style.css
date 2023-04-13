@@ -417,6 +417,12 @@ button:active {
     top: 180px;
     width: 730px;
     left: -100px;
+    text-align: start;
+  }
+
+  #section-info div h3 {
+    font-size: 56px;
+    line-height: 64px;
   }
   
 }
