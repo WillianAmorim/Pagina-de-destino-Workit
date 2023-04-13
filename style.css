@@ -399,16 +399,24 @@ button:active {
   }
 
   #section-info {
+    width: 100vw;
     margin-top: 200px;
     flex-direction: row;
-    padding-left: 150px;
-    padding-right: 150px;
     align-items: flex-start;
+    justify-content: center;
+    margin-left: 50px;
   }
 
   #section-info img {
     width: 477px;
     height: 477px;
+  }
+
+  #section-info div {
+    position: relative;
+    top: 180px;
+    width: 730px;
+    left: -100px;
   }
   
 }
