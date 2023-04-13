@@ -418,7 +418,17 @@ button:active {
     width: 700px;
     left: -100px;
     text-align: start;
-    padding-right: 60px;
+    padding-right: 60px;    
+  }
+
+  #background-img {
+    position: absolute;
+    background-image: url('./assets/images/bg-pattern-3.svg');
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    left: 400px;
+    bottom: -230px;
   }
 
   #section-info div h3 {
