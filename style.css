@@ -430,6 +430,7 @@ button:active {
     font-size: 18px;
     line-height: 32px;
     text-align: start;
+    margin-top: 32px;
   }
 
   #section-info div button {
@@ -437,6 +438,10 @@ button:active {
     height: 61px;
     font-size: 18px;
     letter-spacing: -0.18px;
+  }
+
+  #section-footer {
+    margin-top: 200px;
   }
 }
 
