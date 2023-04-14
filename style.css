@@ -315,7 +315,24 @@ button:active {
 }
 
 @media screen and (min-width: 1024px) {
-  
-  
+
+  main > div {
+    display: block;
+    position: absolute;
+    width: 100%;
+  }
+
+  #img-arco-left {
+    position: relative;
+    top: 80px;
+    left: -150px;
+  }
+
+  #section-header {
+    background-image: url('./assets/images/bg-pattern-2.svg');
+    background-repeat: no-repeat;
+    background-position-x: 1150px;
+    background-position-y: 150px;
+  }
 }
 
