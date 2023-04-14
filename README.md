@@ -15,7 +15,7 @@ Descrição breve do que o projeto faz
 
 ## Layout e Design
 
-É uma página de destino somente HTML e CSS, onde pode ser personalizada para qualquer tipo de empresa
+É uma página de destino somente HTML e CSS, onde pode ser personalizada para qualquer tipo de empresa e para qualquer tipo de dispositivo
 
 <img width="400px" src="./desktopPreview.jpg">
 <img width="300px" src="./tabletPreview.jpeg">
