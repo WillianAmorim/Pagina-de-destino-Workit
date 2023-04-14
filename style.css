@@ -414,17 +414,34 @@ button:active {
 
     background-image: url('./assets/images/bg-pattern-3.svg');
     background-repeat: no-repeat;
-    background-position-x: 300px;
-    background-position-y: 250px;
+    background-position: right bottom;
+  }
+
+  #section-info div h3 {
+    font-size: 56px;
+    line-height: 64px;
   }
 
   #section-info div p {
     text-align: start;
+    font-size: 18px;
+    line-height: 32px;
+  }
+
+  #section-info div button {
+    width: 190px;
+    height: 61px;
+    font-size: 18px;
+    letter-spacing: -0.18px;
   }
 
   #background-img {
     width: 173px;
     height: 137px;
+  }
+
+  #section-footer {
+    margin-top: 200px;
   }
 }
 
