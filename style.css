@@ -392,5 +392,11 @@ button:active {
     font-size: 18px;
     line-height: 32px;
   }
+
+  #section-info {
+    margin-top: 180px;
+    flex-direction: row;
+    align-items: flex-start;
+  }
 }
 
