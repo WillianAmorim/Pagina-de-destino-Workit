@@ -387,5 +387,10 @@ button:active {
     font-size: 32px;
     line-height: 40px;
   }
+
+  .div-contents div p {
+    font-size: 18px;
+    line-height: 32px;
+  }
 }
 
