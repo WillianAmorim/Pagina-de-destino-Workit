@@ -368,5 +368,14 @@ button:active {
     width: 767px;
     height: 441px;
   }
+
+  #section-contents {
+    margin-top: 255px;
+    flex-direction: row;
+    padding-left: 160px;
+    padding-right: 160px;
+    align-items: flex-start;
+    gap: 50px;
+  }
 }
 
