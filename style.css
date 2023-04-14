@@ -351,5 +351,10 @@ button:active {
   #section-header div {
     width: 635px;
   }
+
+  #section-header div h1 {
+    font-size: 80px;
+    line-height: 80px;
+  }
 }
 
