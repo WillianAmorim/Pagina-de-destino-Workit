@@ -347,5 +347,9 @@ button:active {
     font-size: 18px;
     letter-spacing: -0.18px;
   }
+
+  #section-header div {
+    width: 635px;
+  }
 }
 
