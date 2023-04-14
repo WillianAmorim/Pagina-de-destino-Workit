@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-style: normal;
 }
 
 body {
@@ -27,6 +28,11 @@ header {
   padding: 32px 16px 0 16px;
 }
 
+button {
+  font-family: 'Manrope';
+  font-weight: 700;
+}
+
 header button {
   border: none;
   background-color: transparent;
@@ -48,6 +54,8 @@ header button {
 }
 
 #section-header div h1 {
+  font-family: 'Fraunces 144pt';
+
   font-weight: 600;
   font-size: 50px;
   line-height: 50px;
@@ -95,6 +103,8 @@ header button {
 }
 
 .paragraph-numbers {
+  font-family: 'Fraunces 144pt';
+  
   width: 48px;
   height: 48px;
   align-self: center;
@@ -116,6 +126,8 @@ header button {
 }
 
 .div-contents div h2 {
+  font-family: 'Fraunces 144pt';
+
   font-weight: 600;
   font-size: 28px;
   line-height: 36px;
@@ -123,6 +135,8 @@ header button {
 }
 
 .div-contents div p {
+  font-family: 'Manrope';
+
   font-weight: 400;
   font-size: 16px;
   line-height: 28px;
@@ -154,6 +168,8 @@ header button {
 }
 
 #section-info div h3 {
+  font-family: 'Fraunces 144pt';
+
   font-weight: 600;
   font-size: 32px;
   line-height: 48px;
@@ -162,6 +178,8 @@ header button {
 }
 
 #section-info div p {
+  font-family: 'Manrope';
+  
   font-weight: 400;
   font-size: 16px;
   line-height: 28px;
