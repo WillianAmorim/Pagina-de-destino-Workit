@@ -363,5 +363,10 @@ button:active {
     font-size: 18px;
     letter-spacing: -0.18px;
   }
+
+  #img-hero {
+    width: 767px;
+    height: 441px;
+  }
 }
 
