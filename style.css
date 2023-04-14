@@ -296,6 +296,10 @@ button:active {
     left: 170px;
     top: -120px;
     text-align: start;
+
+    background-image: url("./assets/images/bg-pattern-3.svg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
   }
 
   #section-info div h3 {
