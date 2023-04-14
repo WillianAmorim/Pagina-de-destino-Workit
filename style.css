@@ -14,7 +14,7 @@ main > div {
 
 #section-header {
   height: 481.71px;
-  background: #24053E;
+  background: #24053e;
   border-bottom-left-radius: 50% 25px;
   border-bottom-right-radius: 50% 25px;
   display: flex;
@@ -30,12 +30,12 @@ header {
 header button {
   border: none;
   background-color: transparent;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: 700;
   font-size: 16px;
   line-height: 32px;
   letter-spacing: -0.16px;
-  border-bottom: solid 2px #44FFA1;
+  border-bottom: solid 2px #44ffa1;
 }
 
 #section-header div {
@@ -52,24 +52,24 @@ header button {
   font-size: 50px;
   line-height: 50px;
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 #section-header div h1 span {
-  border-bottom: solid 2px #44FFA1;
+  border-bottom: solid 2px #44ffa1;
 }
 
 #section-header div button {
   width: 133px;
   height: 55px;
-  background-color: #44FFA1;
-  border: 1px solid #44FFA1;
+  background-color: #44ffa1;
+  border: 1px solid #44ffa1;
   font-weight: 700;
   font-size: 16px;
   line-height: 32px;
   text-align: center;
   letter-spacing: -0.16px;
-  color: #24053E;
+  color: #24053e;
 }
 
 #img-hero {
@@ -99,13 +99,13 @@ header button {
   height: 48px;
   align-self: center;
   padding: 5px;
-  border: 1px solid #584D62;
+  border: 1px solid #584d62;
   border-radius: 30.5px;
 
   font-weight: 600;
   font-size: 20px;
   line-height: 36px;
-  color: #24053E;
+  color: #24053e;
 }
 
 .div-contents div {
@@ -119,7 +119,7 @@ header button {
   font-weight: 600;
   font-size: 28px;
   line-height: 36px;
-  color: #24053E;
+  color: #24053e;
 }
 
 .div-contents div p {
@@ -127,7 +127,7 @@ header button {
   font-size: 16px;
   line-height: 28px;
   text-align: center;
-  color: #584D62;
+  color: #584d62;
 }
 
 #section-info {
@@ -147,7 +147,7 @@ header button {
   top: -55px;
   width: 100%;
   height: 375px;
-  background-color: #24053E;
+  background-color: #24053e;
   text-align: center;
   padding-left: 31px;
   padding-right: 31px;
@@ -157,7 +157,7 @@ header button {
   font-weight: 600;
   font-size: 32px;
   line-height: 48px;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-top: 32px;
 }
 
@@ -166,15 +166,15 @@ header button {
   font-size: 16px;
   line-height: 28px;
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-top: 16px;
 }
 
 #section-info div button {
   width: 172px;
   height: 55px;
-  background-color: #44FFA1;
-  border: 1px solid #44FFA1;
+  background-color: #44ffa1;
+  border: 1px solid #44ffa1;
   margin-top: 24px;
 
   font-weight: 700;
@@ -182,7 +182,7 @@ header button {
   line-height: 32px;
   text-align: center;
   letter-spacing: -0.16px;
-  color: #24053E;
+  color: #24053e;
 }
 
 #section-footer {
@@ -203,7 +203,6 @@ button:active {
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-
   #section-header {
     height: 540px;
   }
@@ -229,9 +228,8 @@ button:active {
   #img-arco-right {
     position: relative;
     right: -50px;
-    
   }
-  
+
   #section-header div {
     width: 573px;
     padding-left: 50px;
@@ -262,14 +260,13 @@ button:active {
     display: flex;
     flex-direction: row;
     gap: 30px;
-
   }
 
   .paragraph-numbers {
     width: 50px;
     height: 50px;
     padding: 20px;
-    border: 1px solid #584D62;
+    border: 1px solid #584d62;
     border-radius: 50%;
     line-height: 10px;
     text-align: center;
@@ -281,7 +278,7 @@ button:active {
     text-align: start;
     align-self: flex-start;
   }
-  
+
   .div-contents div p {
     text-align: start;
   }
@@ -382,7 +379,7 @@ button:active {
     margin-top: 50px;
     gap: 25px;
   }
-  
+
   .div-contents div h2 {
     font-size: 32px;
     line-height: 40px;
@@ -412,7 +409,7 @@ button:active {
     width: 60%;
     text-align: start;
 
-    background-image: url('./assets/images/bg-pattern-3.svg');
+    background-image: url("./assets/images/bg-pattern-3.svg");
     background-repeat: no-repeat;
     background-position: right bottom;
   }
@@ -447,18 +444,23 @@ button:active {
   /* EFEITOS DE HOVER E CLICK */
 
   #button-header:hover {
-    color: #44FFA1;
+    color: #44ffa1;
   }
 
   button:active {
     opacity: 0.7;
   }
 
-  #button-learn:hover, #button-apply:hover {
-    border: 1px solid #44FFA1;
-    background-color: #24053E;
-    color: #44FFA1;
+  #button-learn:hover,
+  #button-apply:hover {
+    border: 1px solid #44ffa1;
+    background-color: #24053e;
+    color: #44ffa1;
   }
-  
-}
 
+  #icon-facebook:active,
+  #icon-twiter:active,
+  #icon-instagram:active {
+    opacity: 0.3;
+  }
+}
