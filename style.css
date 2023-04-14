@@ -383,5 +383,9 @@ button:active {
     gap: 25px;
   }
   
+  .div-contents div h2 {
+    font-size: 32px;
+    line-height: 40px;
+  }
 }
 
