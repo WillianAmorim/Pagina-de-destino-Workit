@@ -375,7 +375,13 @@ button:active {
     padding-left: 160px;
     padding-right: 160px;
     align-items: flex-start;
-    gap: 50px;
+    gap: 30px;
   }
+
+  .div-contents div {
+    margin-top: 50px;
+    gap: 25px;
+  }
+  
 }
 
