@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 main > div {
   display: none;
 }
@@ -315,10 +319,6 @@ button:active {
 }
 
 @media screen and (min-width: 1024px) {
-  body {
-    overflow-x: hidden;
-  }
-  
   main > div {
     display: block;
   }
