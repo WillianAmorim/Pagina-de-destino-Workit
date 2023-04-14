@@ -450,7 +450,7 @@ button:active {
     color: #44FFA1;
   }
 
-  #button-header:active {
+  button:active {
     opacity: 0.7;
   }
 
@@ -459,5 +459,6 @@ button:active {
     background-color: #24053E;
     color: #44FFA1;
   }
+  
 }
 
