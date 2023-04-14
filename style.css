@@ -63,7 +63,7 @@ header button {
   width: 133px;
   height: 55px;
   background-color: #44FFA1;
-  border: #44FFA1;
+  border: 1px solid #44FFA1;
   font-weight: 700;
   font-size: 16px;
   line-height: 32px;
@@ -174,7 +174,7 @@ header button {
   width: 172px;
   height: 55px;
   background-color: #44FFA1;
-  border: #44FFA1;
+  border: 1px solid #44FFA1;
   margin-top: 24px;
 
   font-weight: 700;
@@ -442,6 +442,22 @@ button:active {
 
   #section-footer {
     margin-top: 200px;
+  }
+
+  /* EFEITOS DE HOVER E CLICK */
+
+  #button-header:hover {
+    color: #44FFA1;
+  }
+
+  #button-header:active {
+    opacity: 0.7;
+  }
+
+  #button-learn:hover, #button-apply:hover {
+    border: 1px solid #44FFA1;
+    background-color: #24053E;
+    color: #44FFA1;
   }
 }
 
