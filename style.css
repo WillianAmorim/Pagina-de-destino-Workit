@@ -397,6 +397,19 @@ button:active {
     margin-top: 180px;
     flex-direction: row;
     align-items: flex-start;
+    width: 100vw;
+  }
+
+  #section-info img {
+    width: 477px;
+    height: 477px;
+    margin-left: 150px;
+  }
+
+  #section-info div {
+    left: -100px;
+    top: 200px;
+    width: 60%;
   }
 }
 
